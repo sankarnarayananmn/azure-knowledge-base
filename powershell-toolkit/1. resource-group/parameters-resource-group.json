@@ -1,0 +1,11 @@
+{
+  "resourceGroupName": "hrm.incorp.poc",
+  "location": "southeastasia",
+  "tags": {
+    "Owner": "Sankar Narayanan",
+    "Project": "HRM",
+    "Application": "HRM",
+    "Department": "IT",
+    "Mail": "sankar.narayananmn@outlook.com"
+  }
+}
